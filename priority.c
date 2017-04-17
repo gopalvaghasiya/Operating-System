@@ -23,3 +23,5 @@ void main(){
 		p[i].bt=bt;
 	}
 }
+
+//it is right code??????
